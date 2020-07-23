@@ -35,6 +35,10 @@ header {
     width: 100%;
 }
 
+img {
+    background-color: var(--primary-color);
+}
+
 section.grid, section.centered {
     margin: var(--main-spacing);
 }
